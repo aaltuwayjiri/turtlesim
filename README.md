@@ -14,7 +14,7 @@ turtlesim package installed.
 rqt installed.
 
 
-# step 1:I nstall the turtlesim package for your ROS 2 distro:
+# step 1: Install the turtlesim package for your ROS 2 distro:
 
     sudo apt update
     sudo apt install ros-<ros2-distro>-turtlesim
